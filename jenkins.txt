@@ -6,3 +6,11 @@ steo(Developer1-1)
 
 }
 }
+pipeline{
+
+steps{
+
+steo(developer2-2)
+
+}
+}
