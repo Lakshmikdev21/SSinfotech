@@ -2,7 +2,7 @@ pipeline{
 
 steps{
 
-steo(Developer1)
+steo(Developer1-1)
 
 }
 }
